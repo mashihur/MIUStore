@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MIUStore</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_in_account">Sign in to your account</string>
+    <string name="email">Email Address (required)</string>
+    <string name="password">Password (required)</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="no_account">----------Dont have an account?--------</string>
+    <string name="create_account">Create a new account</string>
+    <string name="shop_category">Shop by categories</string>
+    <string name="books">Books</string>
+    <string name="clothing">Clothing</string>
+    <string name="organic_foods">Organic Foods</string>
+    <string name="medicines">Medicines</string>
+
+</resources>
